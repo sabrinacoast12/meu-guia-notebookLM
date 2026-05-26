@@ -1,4 +1,4 @@
-# Caderno Temático Inteligente com NotebookLM 🧠
+# Caderno Temático Inteligente com NotebookLM 
 
 ## 1. Contexto e Objetivos
 🎮 Jogos tão viciantes que você nem percebe que está aprendendo um novo idioma. 
